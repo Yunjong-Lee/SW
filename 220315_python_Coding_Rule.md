@@ -1,5 +1,13 @@
 Index  
 
+* Anaconda & Jupyter notebook  
+1. [가상환경](#가상환경)  
+2. [주피터 노트북 화면 font](#주피터 노트북-화면-font)
+3. [가상환경Backup/복원](#아나콘다-가상환경-backup/복원)  
+4. 
+
+</br>  
+* Python  
 1. [Array](#Array)  
 2. [Image 처리](#Image-save-&-call)  
 3. 
@@ -7,6 +15,40 @@ Index
 </br>
 
 ---  
+
+### 아나콘다-주피터노트북  
+#### 가상환경  
+
+* 리스트 확인  
+
+    ```  
+    conda info --envs  
+    ```  
+  
+* 주피터 노트북 화면 font  
+
+    ```  
+    jt -t onedork -T -N -kl -f roboto -fs 9 -tfs 9 -nfs 9 -tfs 9 -ofs 8 -cellw 100% -lineh 150 -cursc r -cursw 2
+    ```  
+ 
+
+### 아나콘다-가상환경 backup/복원
+ - 가상환경 export
+   : "conda env export > 파일명. yaml" 입력  
+ 
+    ```  
+    $ conda env export > D:\env_backup\py35.yml  
+    ```  
+   - 여기서 이 명령어를 시행하는 Prompt는 백업할 env의 프롬프트임.  
+ 
+- 백업파일을 이용하여 가상환경 생성
+
+    ```  
+    $ conda env create --name py35 --file D:\env_backup\py35.yml  
+    ```  
+
+
+### Python
 
 #### Array
 
