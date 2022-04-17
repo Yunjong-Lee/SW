@@ -1,7 +1,7 @@
 Index  
 
 1. [Array](#Array)  
-2. [Image 처리](#Image save & call)  
+2. [Image 처리](#Image-save-&-call)  
 3. 
 
 </br>
