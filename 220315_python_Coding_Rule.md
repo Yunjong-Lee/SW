@@ -1,7 +1,7 @@
 Index  
 
-1. [Array](#메타버스-공간에서의-손-기반-상호작용에-대한-기술-동향)  
-2. [Image 처리](#image save & call)  
+1. [Array](#Array)  
+2. [Image 처리](#Image save & call)  
 
 
 </br>
@@ -15,7 +15,7 @@ Index
   
 </br>   
 
-#### image save & call 
+#### Image save & call 
 * image 저장 및 호출  
 
     ```  
