@@ -4,9 +4,12 @@ Index
 1. [가상환경](#명령어)  
 2. [주피터 노트북 화면 font](#주피터노트북-화면-font)
 3. [가상환경Backup/복원](#가상환경-명령어)  
-4. [Array](#Array)  
-5. [Image 처리](#Image-display)  
-6. 
+
+</br>  
+
+* 파이썬  
+1. [Array](#Array)  
+2. [Image 처리](#Image-display)   
 
 </br>
 
