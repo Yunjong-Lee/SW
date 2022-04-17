@@ -2,7 +2,7 @@ Index
 
 * Anaconda & Jupyter notebook  
 1. [가상환경](#가상환경)  
-2. [주피터 노트북 화면 font](#주피터 노트북-화면-font)
+2. [주피터 노트북 화면 font](#주피터노트북-화면-font)
 3. [가상환경Backup/복원](#아나콘다-가상환경-backup/복원)  
 4. 
 
@@ -19,22 +19,20 @@ Index
 ---  
 
 ### 아나콘다-주피터노트북  
-#### 가상환경  
-
-* 리스트 확인  
+#### 리스트 확인  
 
     ```  
     conda info --envs  
     ```  
   
-* 주피터 노트북 화면 font  
+#### 주피터노트북 화면 font  
 
     ```  
     jt -t onedork -T -N -kl -f roboto -fs 9 -tfs 9 -nfs 9 -tfs 9 -ofs 8 -cellw 100% -lineh 150 -cursc r -cursw 2
     ```  
  
 
-### 아나콘다-가상환경 backup/복원
+#### 아나콘다-가상환경 backup/복원
  - 가상환경 export
    : "conda env export > 파일명. yaml" 입력  
  
