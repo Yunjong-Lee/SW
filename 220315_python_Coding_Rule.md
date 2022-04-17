@@ -1,13 +1,20 @@
 Index  
-[Array](#Array)
+
+1. [Array](#메타버스-공간에서의-손-기반-상호작용에-대한-기술-동향)  
+2. [Image 처리](#image save & call)  
+3. [메타버스-공간에서의-손-기반-상호작용에-대한-기술-동향](#메타버스-공간에서의-손-기반-상호작용에-대한-기술-동향)  
+
+</br>
 
 ---  
 
 #### Array
+
 - numpy.ndarray  
   - NumPy의 N차원 배열 객체(C의 array와 동일 개념)로, 하나의 데이터 타입만 넣을 수 있다(Python의 list와 차이점)  
-  - 
   
+</br>   
+
 #### image save & call 
 * image 저장 및 호출  
 
@@ -19,7 +26,9 @@ Index
     cv2.waitKey() # 키보드 입력이 들어올 때까지 창을 유지
     cv2.destroyAllWindows() # 모든 윈도우 창을 제거  
     ```  
-    
-    
-    
-    
+      
+</br>  
+
+#### 
+
+</br>    
