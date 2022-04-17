@@ -1,4 +1,7 @@
-### python coding rule
+Index  
+[Array](#Array)
+
+---  
 
 #### Array
 - numpy.ndarray  
