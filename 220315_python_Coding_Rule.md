@@ -27,8 +27,4 @@ Index
     cv2.destroyAllWindows() # 모든 윈도우 창을 제거  
     ```  
       
-</br>  
-
-#### 
-
 </br>    
