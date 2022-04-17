@@ -1,26 +1,20 @@
 Index  
 
 * Anaconda & Jupyter notebook  
-1. [가상환경](#가상환경)  
+1. [가상환경](#명령어)  
 2. [주피터 노트북 화면 font](#주피터노트북-화면-font)
-3. [가상환경Backup/복원](#아나콘다-가상환경-backup/복원)  
-4. 
-
-</br>  
-
-
-* Python  
-1. [Array](#Array)  
-2. [Image 처리](#Image-save-&-call)  
-3. 
+3. [가상환경Backup/복원](#가상환경-명령어)  
+4. [Array](#Array)  
+5. [Image 처리](#Image-display)  
+6. 
 
 </br>
 
 ---  
 
 ### 아나콘다-주피터노트북  
-#### 리스트 확인  
-
+#### 명령어  
+* 리스트 확인
     ```  
     conda info --envs  
     ```  
@@ -32,7 +26,8 @@ Index
     ```  
  
 
-#### 아나콘다-가상환경 backup/복원
+#### 가상환경 명령어
+* backup/복원
  - 가상환경 export
    : "conda env export > 파일명. yaml" 입력  
  
@@ -57,8 +52,8 @@ Index
   
 </br>   
 
-#### Image save & call 
-* image 저장 및 호출  
+#### Image display 
+* image 호출 및 display(view)  
 
     ```  
     import cv2
